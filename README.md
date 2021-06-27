@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rizahanmiy
-- 👀 I’m interested in Android, Ios, Web Development
-- 🌱 I’m currently learning Ios & Web
+Hello
 
 <!---
 rizahanmiy/rizahanmiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
