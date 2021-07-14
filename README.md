@@ -1,2 +1,1 @@
-HELLO HARIAN PELITA
-
+Harian Pelita
